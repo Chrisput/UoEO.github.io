@@ -1,2 +1,2 @@
 # UoEO.github.io
-This is another try to create an e-Repository 
+This is the e-Repository for my Computer Science postgraduate 
